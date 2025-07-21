@@ -13,8 +13,6 @@ public class Region {
 
     private String regionName;
 
-    // Getters and Setters
-
     public String getRegionId() {
         return regionId;
     }
